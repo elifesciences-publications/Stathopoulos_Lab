@@ -1,6 +1,6 @@
 # Stathopoulos_Lab
 
-#### This github repository includes ChIPSeq, ATACSseq, and RNASeq data processing pipelines for a research article [Odd-paired is a late-acting pioneer factor coordinating with Zelda to broadly regulate gene expression in early embryos](https://authors.library.caltech.edu/100041/1/853028.full.pdf).  
+#### This github repository includes ChIPSeq, ATACSseq, and RNASeq data processing pipelines for a research article [Odd-paired is a late-acting pioneer factor coordinating with Zelda to broadly regulate gene expression in early embryos](https://doi.org/10.7554/eLife.59610).  
 #### The codes can be used under UNIX(Centos/Ubuntu) environment with proper installation of necessary software tools.
 ####
 #### Directory contents 
